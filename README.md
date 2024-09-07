@@ -1,6 +1,6 @@
 ## Всем добра 👋
 - 🌱 Разработчик <a href="https://1c.ru/" target="_blank">1C</a>
-- 💬 Готов <a href="https://getmentor.dev/mentor/islam-abasov-2493"target="_blank">поговорить про 1С</a>
+- 💬 Готов <a href="https://getmentor.dev/mentor/islam-abasov-2493" target="_blank">поговорить про 1С</a>
 - 📫 Рад новым знакомствам: <a href="https://telegram.me/abasov_it" target="_blank">abasov_it</a>
 - ⚡ нравится изучать новое, футбол, оффлайн митапы, читать книги
 
